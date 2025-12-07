@@ -1,0 +1,7 @@
+# OS
+.DS_Store
+# Node/Vercel artifacts
+.vercel
+node_modules
+npm-debug.log*
+yarn-error.log*
